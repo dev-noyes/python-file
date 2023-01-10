@@ -1,6 +1,14 @@
 # Python Automatically moving files
 
+## 설치
+- python3 설치 [python3 설치](https://www.python.org/downloads/)
+- vscode 설치 [vscode 설치](https://code.visualstudio.com/download)
+- watchdog 설치 [watchdog 설치](https://python-watchdog.readthedocs.io/en/stable/)
+
+
 ## v1.0.0
+해당 파이썬 스크립트의 로직입니다. 
+watchdog 은 미리 인스톨을 해야합니다. 
 
 - [x] 옮기고 싶은 위치에 Image, video 폴더를 만들어줍니다. 
 - [x] 먼저 다운로드 폴더에 있는 모든 파일들을 읽어봅시다.
